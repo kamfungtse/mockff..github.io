@@ -2,10 +2,10 @@ html {
     /* px 表示 “像素（pixels）”: 基础字号为 10 像素 */
     font-size: 16px;
     /* Google fonts 输出的 CSS */
-    font-family: 'RocknRoll One', sans-serif;  }
+}
 body {
     margin: 0;
-    background-color: bisque;
+    background-color: rgb(255, 244, 230);
 }
 nav {
     background-color: black;
@@ -19,8 +19,7 @@ h1 {display: inline;
 }
 button {float: right;}
 img {
-    width: 320px;
-    height: 427px;
+    width: 900px;
 }
 
 #content {margin: 1em auto 0 auto;

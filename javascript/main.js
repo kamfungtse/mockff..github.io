@@ -1,5 +1,5 @@
 
-let myImage = document.querySelector('img');
+/* let myImage = document.querySelector('img');
 
 myImage.onclick = function() {
     // myImage.setAttribute('src', 'img/img2.jpg');
@@ -10,7 +10,7 @@ myImage.onclick = function() {
       myImage.setAttribute('src', 'img/img1.jpg');
     }
     // alert('test');
-}
+} */
 
 
 let myButton = document.querySelector('button');
