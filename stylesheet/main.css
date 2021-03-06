@@ -7,15 +7,22 @@ body {
     margin: 0;
     background-color: bisque;
 }
-h1 {
+nav {
     background-color: black;
     color:white;
     margin: 0;
-    padding: 20px;
+    padding: 10px;
 }
-
+h1 {display: inline;
+    height: 1em;
+    line-height: 1em;
+}
+button {float: right;}
 img {
-    width: 300px;
-    height: 200px;
+    width: 320px;
+    height: 427px;
 }
 
+#content {margin: 1em auto 0 auto;
+    width: 960px;
+}
